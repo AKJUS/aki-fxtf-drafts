@@ -1,3 +1,3 @@
 # Moved
 
-The Web Animations specification is now [here](http://w3c.github.io/web-animations/)
+The Web Animations Module Level 1 specification is now [in the CSSWG repository](https://github.com/w3c/csswg-drafts/tree/main/web-animations-1)
